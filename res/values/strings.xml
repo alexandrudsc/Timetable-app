@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicatie studenti</string>
+    <string name="widget_label">Orar USV</string>
+    <string name="title_nav_closed">@string/app_name</string>
+    <string name="title_nav_opened"> </string>
+
+    <string name="action_search">Search</string>
+    <string name="search_hint">Numele unei discipline</string>
+    <string name="no_result_search">Niciun rezultat</string>
+    <string name="provider_authority">com.alexandru.developer.aplicatie_studenti.storage.CoursesContentProvider</string>
+    <string name="done">Done</string>
+
+    <string name="start_results_fragment">Arată evidența</string>
+
+    <string name="prof">Profesor: </string>
+    <string name="time">Interval orar: </string>
+    <string name="location">Locație: </string>
+</resources>

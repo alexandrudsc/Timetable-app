@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="widget_margin_right">8dp</dimen>
+    <dimen name="widget_margin_left">8dp</dimen>
+    <dimen name="widget_width">300dp</dimen>
+    
+    <dimen name="xlarge_text">30sp</dimen>
+    <dimen name="large_text">24sp</dimen>
+    <dimen name="medium_text">17sp</dimen>
+
+    <dimen name="close_button_width">30dp</dimen>
+    <dimen name="close_button_height">30dp</dimen>
+</resources>
